@@ -8,7 +8,7 @@ This repository is dedicated to the Software Engineering Course, 2020, Toros Uni
 
 The course code is CSE307
 
-Course Teacher is PhD Furkan Gözükara, Room: A015
+Course Teacher is PhD Furkan Gozukara, Room: A015
 
 You can come and visit me anytime you wish
 
